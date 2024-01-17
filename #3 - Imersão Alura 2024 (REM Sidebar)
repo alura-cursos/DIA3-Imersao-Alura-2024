@@ -134,3 +134,4 @@ REM SIDEBAR
 .section-playlist__content .subtitle {
     font-weight: 500;
     font-size: 0.8rem; /* 12.
+}
