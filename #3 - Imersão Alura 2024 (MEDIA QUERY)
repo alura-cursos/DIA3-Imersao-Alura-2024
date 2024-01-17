@@ -1,0 +1,21 @@
+@media screen and (max-width: 910px) {
+  .header__search {
+    display: none !important;
+  }
+
+  /* ENSINAR ASSIM COM O MEDIA QUERY */
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr !important;
+  }
+}
+
+@media screen and (min-width: 911px) and (max-width: 1140px) {
+  .header__search {
+    display: none !important;
+  }
+
+  /* ENSINAR ASSIM COM O MEDIA QUERY */
+  .offer__list-item {
+    grid-template-columns: 1fr 1fr 1fr !important;
+  }
+}

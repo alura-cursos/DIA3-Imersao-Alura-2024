@@ -1,0 +1,16 @@
+CSS (HOVER)
+
+MAIN CONTENT
+
+.header__search:hover {
+  border: 1px solid #fff;
+}
+
+.header__login .subscribe:hover {
+  transform: scale(1.04);
+  color: var(--text-base-light);
+}
+
+.header__login .login:hover {
+  transform: scale(1.04);
+}

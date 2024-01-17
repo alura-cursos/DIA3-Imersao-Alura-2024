@@ -1,0 +1,13 @@
+CSS (Hover)
+
+SIDEBAR
+
+.sidebar nav ul li a:hover {
+    color: #ffffff;
+}
+
+.sidebar .cookies a:hover {
+    text-decoration: underline;
+}
+
+
